@@ -1,6 +1,10 @@
 
 .p1 {
-  background: url('Images/Wall.jpg') no-repeat center center fixed; 
+    background-image: url('Images/Wall.jpg');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-origin: center;
+    background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -39,7 +43,11 @@ audio{
 }
 
 .sky { 
-  background: url('Images/sky.jpeg') no-repeat center center fixed; 
+  background-image: url('Images/sky.jpeg');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-origin: center;
+    background-attachment: fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
