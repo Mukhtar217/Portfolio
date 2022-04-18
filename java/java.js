@@ -21,7 +21,7 @@ setTimeout(function () {
     playAudio(a);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -38,7 +38,7 @@ setTimeout(function () {
     playAudio(b);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -57,7 +57,7 @@ setTimeout(function () {
     playAudio(c);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -74,7 +74,7 @@ setTimeout(function () {
     playAudio(d);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -91,7 +91,7 @@ setTimeout(function () {
     playAudio(e);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
     setTimeout(function () {
@@ -107,7 +107,7 @@ setTimeout(function () {
     playAudio(f);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -124,7 +124,7 @@ setTimeout(function () {
     playAudio(g);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -141,7 +141,7 @@ setTimeout(function () {
     playAudio(h);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
 
@@ -158,7 +158,7 @@ setTimeout(function () {
     playAudio(i);
 }, 420);
     setTimeout(function () {
-    $('.p1').css('background',"url(style/images/Cracked.jpg)");
+    $('.p1').css('background',"url(style/Images/Cracked.jpg)");
    
 }, 700);
     setTimeout(function () {
