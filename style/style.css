@@ -12,8 +12,8 @@
 }
 
 .text {
-    color:black;
-	-webkit-text-stroke: 0.5px black;
+    color:white;
+	-webkit-text-stroke: 1px white;
 	font-family:Quicksand;
 }
 .textfl{
@@ -40,6 +40,10 @@
 }
 audio{
 	display: none;
+}
+.speech{
+    display: initial;
+    width: 28vh;
 }
 
 .sky { 
@@ -315,7 +319,7 @@ hr{
 .hint {
     position:absolute;
     right:0%;
-    color:black;
-    -webkit-text-stroke: 0.5px black;
+    color:white;
+    -webkit-text-stroke: 1px white;
     font-family:Quicksand;
 }
